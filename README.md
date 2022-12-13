@@ -9,7 +9,7 @@
 ![GITHUB](https://img.shields.io/badge/-GITHUB-2F4F4F??style=for-the-badge&logo=GITHUB)
 
 ### Testing Documentation
-[![Checklists](https://img.shields.io/badge/-Checklists-2F4F4F??style=for-the-badge)](https://github.com/NastyaRostovtseva/test-artifacts)
+[![Checklists](https://img.shields.io/badge/-Checklists-2F4F4F??style=for-the-badge)](https://docs.google.com/spreadsheets/d/1EUSuk2Hdaw8NwoNcz56GB_Uyk4hedjgJ9hNdmP6ISk4/edit?usp=sharing)
 [![Test-Suites and Test-Cases](https://img.shields.io/badge/-TestCases-2F4F4F??style=for-the-badge)](https://docs.google.com/spreadsheets/d/1KYS8vEEXfpIKHDq6KWADUyTqervZfFHwVyFtMVSstX0/edit?usp=sharing)
 [![Bug-Reports](https://img.shields.io/badge/-BugReports-2F4F4F??style=for-the-badge)](https://github.com/NastyaRostovtseva/test-artifacts)
 [![Postman Collections](https://img.shields.io/badge/-PostmanCollections-2F4F4F??style=for-the-badge)](https://github.com/NastyaRostovtseva/test-artifacts)

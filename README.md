@@ -11,7 +11,7 @@
 ### Testing Documentation
 [![Checklists](https://img.shields.io/badge/-Checklists-2F4F4F??style=for-the-badge)](https://docs.google.com/spreadsheets/d/1EUSuk2Hdaw8NwoNcz56GB_Uyk4hedjgJ9hNdmP6ISk4/edit?usp=sharing)
 [![Test-Suites and Test-Cases](https://img.shields.io/badge/-TestCases-2F4F4F??style=for-the-badge)](https://docs.google.com/spreadsheets/d/1KYS8vEEXfpIKHDq6KWADUyTqervZfFHwVyFtMVSstX0/edit?usp=sharing)
-[![Bug-Reports](https://img.shields.io/badge/-BugReports-2F4F4F??style=for-the-badge)](https://github.com/NastyaRostovtseva/test-artifacts)
+[![Bug-Reports](https://img.shields.io/badge/-BugReports-2F4F4F??style=for-the-badge)](https://docs.google.com/spreadsheets/d/1gIjLmqCxtX8x7IUBMxa5HC6AZ6M4U6daUZmC_ph1-B4/edit?usp=sharing)
 [![Postman Collections](https://img.shields.io/badge/-PostmanCollections-2F4F4F??style=for-the-badge)](https://github.com/NastyaRostovtseva/test-artifacts)
 
 
